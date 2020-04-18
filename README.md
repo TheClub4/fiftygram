@@ -1,6 +1,6 @@
 # Fiftygram
 
-An app that can apply filters to photos.
+An app that allows usres to apply filters to photos, more specifiacally: noir, fade, sepia, and vintage.
 
 ## References
 Apple Developer Documentation on Core Image Filter Reference:
