@@ -2,7 +2,6 @@
 
 An app that allows users to apply filters to photos, more specifiacally: noir, fade, sepia, and vintage.
 
-Visual demonstration:
 ![](fiftygram.gif)
 
 ## References
